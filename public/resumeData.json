@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Benjamin Lee",
+    "occupation": "Software Development",
+    "description": "I code and break things.",
+    "image": "IMG_0650 2.JPG",
+    "bio": "Bringing over two years of excellence in the software industry, I am a driven full-stack developer with expertise in various front-end and back-end languages. As a self-motivated professional, I love learning new techniques and experimenting with technologies such as React.js, MongoDB/MySQL, Node.js, Express, Redux, and Graph Ql. My technical acumen, paired with my interpersonal abilities, allows me to translate complex concepts, spearhead teams, and accomplish organisational targets. Owing to my intellectual curiosity, I strive to continuously learn more about software development. In addition to my profession as a full-stack developer, I enjoy photography, flying drones, and riding motorbikes. Photography has been a huge part of my life growing up, which is why I love picking up my camera and capturing all the moments that make life unique. As a passionate individual, I strive to better myself as a developer by constantly learning more about the ever-evolving world of technology.",
+    "contactmessage": "Get in touch with me.!",
+    "email": "Benjamin@benjaminlee.dev",
+    "phone": "0483052010",
+    "address": {
+      "street": "Grey Street",
+      "city": "SA",
+      "state": "South Australia",
+      "zip": "5000"
+    },
+    "website": "Benjaminlee.dev",
+    "resumedownload": "N/A Yet",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/BenjaminLee-boop",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Adelaide",
+        "degree": "Fullstack Web development",
+        "graduated": "May 2021",
+        "description": "Graduated"
+      },
+      {
+        "school": "Gawler Highschool",
+        "degree": "SACE",
+        "graduated": "Novemeber 2012",
+        "description": "SACE"
+      }
+    ],
+    "work": [
+      {
+        "company": "Woolworths",
+        "title": "Retail",
+        "years": "November 2015 - Present",
+        "description": "Customer Service and retail Operations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TrailorSailor",
+        "category": "",
+        "image": "trailorSailor.png",
+        "url": "https://github.com/BenjaminLee-boop/Trailer-Sailor"
+      },
+      {
+        "title": "Password Generator ",
+        "category": "",
+        "image": "password.png",
+        "url": "https://github.com/BenjaminLee-boop/password-generator"
+      },
+      {
+        "title": "IVY",
+        "category": "",
+        "image": "ivy.png",
+        "url": "https://github.com/kevin-aminzadeh/inventory-management-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
